@@ -14,6 +14,12 @@ npm install -g @vue/cli
 cd 项目目录
 ```
 
+### 安装依赖
+如果没有node_modules文件夹,那么需要安装依赖
+```bash
+npm install
+```
+
 ### 启动项目
 ```bash
 npm run serve
