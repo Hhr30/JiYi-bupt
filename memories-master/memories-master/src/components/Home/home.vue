@@ -62,7 +62,7 @@
         <p class="sentence">“非遗文化数字化的新纪元”</p>
         <p class="chatUs">联系我们</p>
         <form style="margin-top: 15px">
-          <input type="text" class="chatContent"></input>
+          <input type="text" class="chatContent">
           <input type="button" value="发送" class="chatButton">
         </form>
       </div>
