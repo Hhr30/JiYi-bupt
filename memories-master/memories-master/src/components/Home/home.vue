@@ -14,7 +14,7 @@
         <div class="line2"></div>
       </div>
       <div class="content1">
-        “纪艺”是对非物质文化遗产的记录更是对民族记忆的保护。“创益”不仅代表平台上多种多样的创益数字艺术品，更代表着平台对非遗传承的公益服务以及为我们为非遗传承创造丰厚价值的信心。
+        “云织非遗”是对非物质文化遗产的记录更是对民族记忆的保护。“创益”不仅代表平台上多种多样的创益数字艺术品，更代表着平台对非遗传承的公益服务以及为我们为非遗传承创造丰厚价值的信心。
       </div>
     </div>
     <div class="story2">
@@ -57,7 +57,7 @@
     </div>
     <div class="bottom">
       <div class="bottomContent">
-        <p class="bottomTitle">纪艺——非遗数字藏品创意馆</p>
+        <p class="bottomTitle">云织非遗——非遗数字藏品创意馆</p>
         <p style="margin-top: 20px" class="sentence">欢迎所有的非遗爱好者与我们一同见证</p>
         <p class="sentence">“非遗文化数字化的新纪元”</p>
         <p class="chatUs">联系我们</p>

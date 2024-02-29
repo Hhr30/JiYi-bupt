@@ -20,7 +20,7 @@
     </div>
   </div>
   <p class="center">
-    纪 艺
+    云 织 非 遗
   </p>
   <div class="right" id="font">
     <p>联系我们</p>
