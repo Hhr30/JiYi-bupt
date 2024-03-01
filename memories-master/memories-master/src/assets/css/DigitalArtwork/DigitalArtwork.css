@@ -1,0 +1,98 @@
+div{
+    margin: 0;
+    padding: 0;
+}
+/* 1111 */
+.curprogress{
+    display: flex;
+}
+.progress-anter{
+
+    width: 78px;
+    height: 7px;
+
+    background: #326CC2;
+    border-radius: 3.5px;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lineTop{
+    width: 480px;
+    height: 1px;
+    background-color: #A5A5A5;
+    margin-top: 110px;
+}
+.functions{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 1010px;
+    margin-top: 50px;
+}
+.functionCard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 490px;
+    height: 223px;
+    border: 2px solid #393939;
+    cursor: pointer;
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+}
+.tip{
+    font-family: 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #606060;
+    margin-left: 40px;
+}
+.cardBottom{
+    width: 100%;
+    height: 160px;
+    border: 2px solid #393939;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.items{
+    font-family: 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    color: #143094;
+    margin-left: 20px;
+}
+.CardItem{
+    display: flex;
+    margin-top: 55px;
+    margin-left: 40px;
+    align-items: center;
+}
+.worksBottomContent{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+}
+.bottomWorks{
+    height: 135px;
+    width: 100%;
+}
+.bottomItem{
+    font-family: 'Helvetica', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    color: #606060;
+    margin-left: 70px;
+}

@@ -1,0 +1,53 @@
+div{
+    margin: 0;
+    padding: 0;
+}
+p{
+    margin: 0;
+    padding: 0;
+}
+#progress{
+    position: absolute;
+    width: 1021px;
+    height: 97px;
+    top: 69px;
+}
+.pro-name{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #000000;
+}
+.pro-line{
+    position: absolute;
+    width: 1021px;
+    height: 20px;
+    top: 49px;
+    display: flex;
+    align-items: center;
+}
+.pro-back{
+    position: absolute;
+    width: 1021px;
+    height: 7px;
+    background: #EFEFEF;
+    border-radius: 3.5px;
+}
+.pro-forward{
+    width: 78px;
+    height: 7px;
+    background: #326CC2;
+    border-radius: 3.5px;
+}
+.pro-point{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    left: 68px;
+    border-radius: 50%;
+
+    background: #326CC2;
+}
