@@ -40,8 +40,8 @@ export default {
         { title: "我的", url: this.$cookies.get('token') === null ? "/userProfile/login" : "/userProfile/userInfo" }
       ],
       carouselImages: [
-        { src: "https://i2.100024.xyz/2023/12/27/ysdifm.webp", link: "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80", description: "三星堆" },
-        { src: "https://i2.100024.xyz/2023/12/27/ysdhyk.webp", link: "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80", description: "榫卯结构" },
+        { src: "https://s11.ax1x.com/2024/03/02/pF00IvF.jpg", link: "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80", description: "三星堆" },
+        { src: "https://s11.ax1x.com/2024/03/02/pF00Hb9.jpg", link: "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80", description: "榫卯结构" },
         { src: "https://img2.baidu.com/it/u=1639383325,2675348140&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=753", link: "https://zh.wikipedia.org/wiki/%E4%B8%89%E6%98%9F%E5%A0%86%E9%81%97%E5%9D%80", description: "枫香染" },
         // 添加更多轮播图项
       ],

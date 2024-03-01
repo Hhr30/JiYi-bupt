@@ -76,7 +76,7 @@ export default {
   data() {
     return {
       storyContent: [
-        { imgUrl: "https://i2.100024.xyz/2023/12/26/12ghvgw.webp", title: "非遗星球", content: "非遗星球是一个致力于传承和推广中国非物质文化遗产的平台。", url: "/nonHeritagePlanet/nonHeritagePlanet"},
+        { imgUrl: "https://s11.ax1x.com/2024/03/02/pF00v8K.jpg", title: "非遗星球", content: "非遗星球是一个致力于传承和推广中国非物质文化遗产的平台。", url: "/nonHeritagePlanet/nonHeritagePlanet"},
         { imgUrl: "https://s1.ax1x.com/2022/06/24/jiRFl4.png", title: "数字版权保护", content: "我们基于区块链技术，通过上传作品-作品存证-版权注册-登记确权对非遗作品进行数字化的保护。", url:"/home" },
         { imgUrl: "https://s1.ax1x.com/2022/06/24/jiRgA0.png", title: "数字展馆", content: "用户可以欣赏海量原创非遗作品，并在数字作品商城完成选购和交易，获得对应该作品的数字凭证。", url: "/home"},
         { imgUrl: "https://s1.ax1x.com/2022/06/24/jiR5jJ.png", title: "公益事业助力乡村振兴", content: "收益所得全部返还给创作者，带动非遗文化继承和保护，助力乡村振兴事业的发展。", url: "/home" },
