@@ -44,7 +44,7 @@ export default {
         {unselectImg: "https://s1.ax1x.com/2022/06/24/jFUfFs.png", selectImg: "https://s1.ax1x.com/2022/06/25/jk75KP.png", isSelected: false, path: "/exhibition/enter/inheritor", title: "我是传承人", text: "我是非物质文化遗产的传承人"},  //传承人
         {unselectImg: "https://s1.ax1x.com/2022/06/25/jFTFHg.png", selectImg: "https://s1.ax1x.com/2022/06/25/jFXJe0.png", isSelected: false, path: "/exhibition/enter/creator", title: "我是创作者", text: "我想加入非遗数字作品的创作"},  //创作者
         {unselectImg: "https://s1.ax1x.com/2022/07/25/jxmBkD.png", selectImg: "https://s1.ax1x.com/2022/07/25/jxm61A.png", isSelected: false, path: "/exhibition/enter/campus", title: "我是高校", text: "我是来自高校的志愿者"},  //高校
-        {unselectImg: "https://s1.ax1x.com/2022/07/25/jxmt61.png", selectImg: "https://s1.ax1x.com/2022/07/25/jxmd0K.png", isSelected: false, path: "/exhibition/enter/program", title: "了解程序", text: "我想进一步了解纪艺项目"}   //了解程序
+        {unselectImg: "https://s1.ax1x.com/2022/07/25/jxmt61.png", selectImg: "https://s1.ax1x.com/2022/07/25/jxmd0K.png", isSelected: false, path: "/exhibition/enter/program", title: "了解程序", text: "我想进一步了解云织非遗项目"}   //了解程序
       ]
     }
   },

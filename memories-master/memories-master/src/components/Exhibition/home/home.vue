@@ -35,7 +35,7 @@ export default {
       ],
       path2: [
         { imgUrl: "https://s1.ax1x.com/2022/06/24/jivxBt.png", title: "公益追溯 #03", url: "/welfare" },
-        { imgUrl: "https://s1.ax1x.com/2022/06/24/jixF3Q.png", title: "走进纪艺 #04", url: "/enter" }
+        { imgUrl: "https://s1.ax1x.com/2022/06/24/jixF3Q.png", title: "走进云织非遗 #04", url: "/enter" }
       ],
       normalTitle: [
         { title: "首页", url: "/home" },

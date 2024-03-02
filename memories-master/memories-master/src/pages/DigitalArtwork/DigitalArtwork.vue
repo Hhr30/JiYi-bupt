@@ -7,7 +7,7 @@
         <div style="display: flex;justify-content: space-between;width: 100%">
           <div class="functionCard" @mouseenter="enterShortCard(1)" @mouseleave="leaveShortCard(1)" id="uploadWork"
             @click="changeUrl(0)">
-            <p class="tip" id="uploadWorkText1">将您的作品基本信息上传到纪艺上吧</p>
+            <p class="tip" id="uploadWorkText1">将您的作品基本信息上传到云织非遗上吧</p>
             <div class="CardItem">
               <img src="https://s1.ax1x.com/2022/06/25/jFIHoj.png" class="icon" alt="uploadEnter" id="uploadEnter">
               <img src="https://s1.ax1x.com/2022/06/25/jF7HTe.png" class="icon" alt="uploadLeave" style="display: none"
